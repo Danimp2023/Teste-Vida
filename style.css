@@ -1,0 +1,31 @@
+.gradient-background {
+    background: rgb(13, 174, 174);
+    background-size: 180% 180%;
+    color: aliceblue;
+    margin-top: 20px;
+    }
+
+.nav-item{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: large;
+}
+.mp-5{
+    text-align: justify;
+}
+
+.melhores{
+    float: left;
+}
+
+.product{
+    margin-top: 40px;
+}
+
+.NMN{
+    margin-left: 2rem; 
+    margin-right: 2rem;
+    text-align: justify;
+    display: list-item;
+}
+
